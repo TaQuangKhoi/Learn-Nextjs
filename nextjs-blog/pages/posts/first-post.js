@@ -18,11 +18,6 @@ export default function FirstPost() {
                 }
             />
             <h1>First Post</h1>
-            <h2>
-                <Link href="/">
-                    <Button variant="contained">Back to home</Button>
-                </Link>
-            </h2>
         </Layout>
     );
 }
